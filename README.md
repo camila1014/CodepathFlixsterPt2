@@ -4,7 +4,7 @@
 
 Submitted by: **Camila Aichele**
 
-**Name of your app** is an app that introduces networking ... [TODO] 
+**Flixster** is an app that introduces networking ... [TODO] 
 
 Time spent: **X** hours spent in total
 
