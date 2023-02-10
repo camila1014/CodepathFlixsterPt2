@@ -4,17 +4,17 @@
 
 Submitted by: **Camila Aichele**
 
-**Flixster** is an app that introduces networking ... [TODO] 
+**Flixster** is an app that introduces recently released movies with the movie overview, its popularity, total votes, and average votes. 
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Implement network call and table view to display a list of movies currently playing (title, description, image)
-- [ ] App has a collection view with the same list of movies
-- [ ] Uses a tab bar controller to switch between collection view and table view screens
+- [X] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [X] App has a collection view with the same list of movies
+- [X] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/103790405/218136863-e1c812bc-5ce8-4537-94d8-f7d043f43bff.gif)
 
 
 GIF created with https://ezgif.com  
@@ -37,7 +37,7 @@ GIF created with https://ezgif.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Error parsing json kept occurring.
 
 ## License
 
